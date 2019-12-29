@@ -1206,6 +1206,11 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-rM0nGEKbgH {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+}
 .cid-rLUhR52DJF {
   padding-top: 45px;
   padding-bottom: 45px;
